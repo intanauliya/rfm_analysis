@@ -15,7 +15,7 @@ This is a sales transaction data set of UK-based e-commerce (online retail). The
 2. StockCode (categorical): a five unique character used to identify a specific product.
 3. Description (categorical): product/item name.
 4. Quantity (numeric): the quantity of each product per transaction. Negative values related to cancelled transactions.
-5. InvoiceDate (numeric): the date when each transaction was generated.
+5. InvoiceDate (date): the date when each transaction was generated.
 6. UnitPrice (numeric): the price of each product per unit in pound sterling (£).
 7. CustomerID (categorical): a five-digit unique number that defines each customer.
 8. Country (categorical): name of the country where the customer resides.
