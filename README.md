@@ -11,13 +11,13 @@ In this project, I will go through step by step how to conduct RFM Analysis in o
 # Content
 This is a sales transaction data set of UK-based e-commerce (online retail). The data set contains 500K rows and 8 columns. The following is the description of each column.
 
-TransactionNo (categorical): a six-digit unique number that defines each transaction. The letter “C” in the code indicates a cancellation.
-Date (numeric): the date when each transaction was generated.
-ProductNo (categorical): a five or six-digit unique character used to identify a specific product.
-Product (categorical): product/item name.
-Price (numeric): the price of each product per unit in pound sterling (£).
-Quantity (numeric): the quantity of each product per transaction. Negative values related to cancelled transactions.
-CustomerNo (categorical): a five-digit unique number that defines each customer.
-Country (categorical): name of the country where the customer resides.
+1. InvoiceNo (categorical): a six-digit unique number that defines each transaction. The letter “C” in the code indicates a cancellation.
+2. StockCode (categorical): a five unique character used to identify a specific product.
+3. Description (categorical): product/item name.
+4. Quantity (numeric): the quantity of each product per transaction. Negative values related to cancelled transactions.
+5. InvoiceDate (numeric): the date when each transaction was generated.
+6. UnitPrice (numeric): the price of each product per unit in pound sterling (£).
+7. CustomerID (categorical): a five-digit unique number that defines each customer.
+8. Country (categorical): name of the country where the customer resides.
 
 
