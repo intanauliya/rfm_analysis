@@ -23,4 +23,6 @@ This is a sales transaction data set of UK-based e-commerce (online retail). The
 7. CustomerID (categorical): a five-digit unique number that defines each customer.
 8. Country (categorical): name of the country where the customer resides.
 
+Source from UCI Machine Learning Repository: https://archive.ics.uci.edu/dataset/352/online+retail
+
 
