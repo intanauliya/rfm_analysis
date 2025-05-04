@@ -8,8 +8,8 @@ Here are some of the main benefits of customer segmentation:
    
 In this project, I will go through step by step how to conduct RFM Analysis in order to segment our customers.
 
-# Context
-In the dynamic landscape of e-commerce, understanding customer behavior is crucial for maximizing sales and revenue. This project aims to analyze the sales and revenue data of an e-commerce platform and perform customer segmentation based on RFM (Recency, Frequency, Monetary) analysis. The goal is to extract valuable insights that can inform strategic decisions and enhance the overall performance of the platform. Therefore, try to build a supervised learning model to solve this problem.
+# Introduction
+In the dynamic landscape of e-commerce, understanding customer behavior is crucial for maximizing sales and revenue. This project aims to analyze the sales and revenue data of an e-commerce platform and perform customer segmentation based on RFM (Recency, Frequency, Monetary) analysis. The goal is to extract valuable insights that can inform strategic decisions and enhance the overall performance of the platform.
 
 # Content
 This is a sales transaction data set of UK-based e-commerce (online retail). The data set contains 500K rows and 8 columns. The following is the description of each column.
@@ -24,5 +24,10 @@ This is a sales transaction data set of UK-based e-commerce (online retail). The
 8. Country (categorical): name of the country where the customer resides.
 
 Source from UCI Machine Learning Repository: https://archive.ics.uci.edu/dataset/352/online+retail
+
+# Business Questions
+1. How are sales performing each month?
+
+
 
 
